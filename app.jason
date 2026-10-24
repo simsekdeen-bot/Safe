@@ -3,6 +3,7 @@
     "name": "SafePal",
     "slug": "safepal-app",
     "version": "1.0.0",
+    "sdkVersion": "51.0.0",
     "android": {
       "package": "com.simsekdeen.safepalapp"
     }
