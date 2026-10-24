@@ -3,8 +3,6 @@
     "name": "SafePal",
     "slug": "safepal-app",
     "version": "1.0.0",
-    "orientation": "portrait",
-    "userInterfaceStyle": "light",
     "android": {
       "package": "com.simsekdeen.safepalapp"
     }
