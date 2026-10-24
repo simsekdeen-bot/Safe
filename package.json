@@ -11,5 +11,13 @@
     "react": "18.2.0",
     "react-native": "0.74.5",
     "@expo/vector-icons": "^14.0.0"
+  },
+  "expo": {
+    "name": "SafePal",
+    "slug": "safepal-app",
+    "version": "1.0.0",
+    "android": {
+      "package": "com.simsekdeen.safepalapp"
+    }
   }
 }
