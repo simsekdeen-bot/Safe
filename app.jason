@@ -6,11 +6,6 @@
     "sdkVersion": "51.0.0",
     "android": {
       "package": "com.simsekdeen.safepalapp"
-    },
-    "extra": {
-      "eas": {
-        "projectId": "safepal-app"
-      }
     }
   }
 }
